@@ -8,6 +8,9 @@ include research in which only high level insights are available.
 
 ### By private firms or non-profits
 
+- [Linux Foundation: FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020)
+        - access: high level insights public
+        - timeframe: 2020
 - [GitHub State of the Octoverse](https://octoverse.github.com/)
 	- access: high level insights public
 	- timeframe: ?-2022 (annual)
@@ -130,3 +133,4 @@ https://doi.org/10.5281/zenodo.5048542
 - [CHAOSS](https://chaoss.community/kb-chaoss-community/)
 	- Linux Foundation project to establish OSS community health metrics
 - https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis
+- [GitHub Data Dictionary](https://github.com/github/developer-policy/blob/data-dictionary/data_dictionary.md)
