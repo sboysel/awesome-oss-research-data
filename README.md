@@ -52,6 +52,9 @@ include research in which only high level insights are available.
   survey](https://www.openlogic.com/resources/2022-open-source-report)
 	- access: high level insights public
 	- timeframe: 2022
+- Wikipedia (open crowd sourcing platform)
+ 	- data dumps: https://dumps.wikimedia.org/enwiki/
+ 	- SQL access: https://quarry.wmcloud.org/
 
 ### Academic Publications
 
