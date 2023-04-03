@@ -9,8 +9,8 @@ include research in which only high level insights are available.
 ### By private firms or non-profits
 
 - [Linux Foundation: FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020)
-        - access: high level insights public
-        - timeframe: 2020
+	- access: high level insights public
+	- timeframe: 2020
 - [GitHub State of the Octoverse](https://octoverse.github.com/)
 	- access: high level insights public
 	- timeframe: ?-2022 (annual)
