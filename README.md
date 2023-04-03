@@ -6,6 +6,9 @@ include research in which only high level insights are available.
 
 ## Metrics
 
+- [CHAOSS](https://chaoss.community/)
+	- Linux Foundation project to establish OSS community health metrics
+  - [Metric definitions](https://chaoss.community/kbtopic/all-metrics/)
 - [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
   - [Listing of projects](https://bestpractices.coreinfrastructure.org/en/projects), [high-level project statistics](https://bestpractices.coreinfrastructure.org/en/project_stats), [high-level criteria statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats)
 - OpenSSF Criticality Scores
@@ -142,7 +145,5 @@ https://doi.org/10.5281/zenodo.5048542
 - [NBER Economics of
   Digitization](https://www.nber.org/programs-projects/projects-and-centers/economics-digitization/economics-digitization-research-projects)
 - [Linux Foundation Research](https://www.linuxfoundation.org/research)
-- [CHAOSS](https://chaoss.community/kb-chaoss-community/)
-	- Linux Foundation project to establish OSS community health metrics
 - https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis
 - [GitHub Data Dictionary](https://github.com/github/developer-policy/blob/data-dictionary/data_dictionary.md)
