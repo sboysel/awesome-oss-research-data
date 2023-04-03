@@ -4,6 +4,15 @@ This is a (curated) list of empirical research in the space of Open Source Softw
 prioritize studies in which the raw data is made publicly accessible but also
 include research in which only high level insights are available.
 
+## Metrics
+
+- [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
+  - [Listing of projects](https://bestpractices.coreinfrastructure.org/en/projects), [high-level project statistics](https://bestpractices.coreinfrastructure.org/en/project_stats), [high-level criteria statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats)
+- OpenSSF Criticality Scores
+  - An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects)
+  - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
+  - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+
 ## Surveys
 
 ### By private firms or non-profits
@@ -54,7 +63,7 @@ include research in which only high level insights are available.
 	- timeframe: 2022
 - Wikipedia (open crowd sourcing platform)
  	- data dumps: https://dumps.wikimedia.org/enwiki/
- 	- SQL access: https://quarry.wmcloud.org/
+ 	- SQL access: https://quarry.wmcloud.org/ 
 
 ### Academic Publications
 
