@@ -21,6 +21,9 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Open Source Vulnerability (OSV) Database](https://osv.dev/)
   - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
   - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
+- [The Mail Archive](https://www.mail-archive.com/)
+  - Catalogs a number of public mailing lists for collaborative projects
+  - [FAQ](https://www.mail-archive.com/faq.html)
 
 ## Metrics
 
