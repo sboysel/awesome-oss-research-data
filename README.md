@@ -8,6 +8,10 @@ include research in which only high level insights are available.
 
 - [GH Archive](https://www.gharchive.org/)
 	- Records GitHub's public timeline of activity
+- [GitHub Advisory Database](https://github.com/advisories)
+	- A database of CVEs and security issues affecting GitHub packages
+	- Timeframe: October 2017 through present 
+	- Drawn from [a variety of sources](https://github.com/github/advisory-database#sources) and recorded using [Open Source Vulnerability Format](https://ossf.github.io/osv-schema/)
 
 ## Metrics
 
