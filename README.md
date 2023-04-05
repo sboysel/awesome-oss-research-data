@@ -4,6 +4,9 @@ This is a (curated) list of empirical research in the space of Open Source Softw
 prioritize studies in which the raw data is made publicly accessible but also
 include research in which only high level insights are available.
 
+An excellent list of datasets used for empirical software engineering / mining software repositories exists at
+[dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr). Several relevant data sources from this list are included here.
+
 ## Archives
 
 - [GHTorrent](http://ghtorrent-downloads.ewi.tudelft.nl/)
@@ -128,9 +131,8 @@ Analysis of Linked GitHub and Wikidata. https://doi.org/10.5281/zenodo.7443339
 
 ## Mining Software repositories
 
-An excellent list exists at
-[dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr).  We add
-some additional references here.
+- [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr)
+	- A curated list of datasets relevant to empirical software engineering
 
 ### Academic Publications
 
