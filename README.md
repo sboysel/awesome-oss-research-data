@@ -15,6 +15,10 @@ include research in which only high level insights are available.
   - An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects)
   - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+- [Open Source Contributor Index (OSCI)](https://opensourceindex.io/)
+  - Tracks GitHub contribution by commercial firms
+  - Measures active and total contributors
+  - Drawn from [GH Archive](https://www.gharchive.org/) (events from GitHub's public timeline)
 
 ## Surveys
 
