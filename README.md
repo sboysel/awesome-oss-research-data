@@ -4,6 +4,11 @@ This is a (curated) list of empirical research in the space of Open Source Softw
 prioritize studies in which the raw data is made publicly accessible but also
 include research in which only high level insights are available.
 
+## Archives
+
+- [GH Archive](https://www.gharchive.org/)
+	- Records GitHub's public timeline of activity
+
 ## Metrics
 
 - [CHAOSS](https://chaoss.community/)
