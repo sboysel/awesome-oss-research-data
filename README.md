@@ -7,7 +7,7 @@ include research in which only high level insights are available.
 An excellent list of datasets used for empirical software engineering / mining software repositories exists at
 [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr). Several relevant data sources from this list are included here.
 
-## Archives
+## Databases and Archives
 
 - [GHTorrent](http://ghtorrent-downloads.ewi.tudelft.nl/)
 	- Offline mirror of historical data offered by GitHub's REST API
@@ -18,6 +18,9 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- A database of CVEs and security issues affecting GitHub packages
 	- Timeframe: October 2017 through present 
 	- Drawn from [a variety of sources](https://github.com/github/advisory-database#sources) and recorded using [Open Source Vulnerability Format](https://ossf.github.io/osv-schema/)
+- [Open Source Vulnerability (OSV) Database](https://osv.dev/)
+  - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
+  - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
 
 ## Metrics
 
