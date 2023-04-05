@@ -6,6 +6,9 @@ include research in which only high level insights are available.
 
 ## Archives
 
+- [GHTorrent](http://ghtorrent-downloads.ewi.tudelft.nl/)
+	- Offline mirror of historical data offered by GitHub's REST API
+	- [GitHub org](https://github.com/ghtorrent): website code, tutorial
 - [GH Archive](https://www.gharchive.org/)
 	- Records GitHub's public timeline of activity
 - [GitHub Advisory Database](https://github.com/advisories)
