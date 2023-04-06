@@ -53,6 +53,10 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Bountysource](https://bountysource.com/)
 - [boss.dev](https://www.boss.dev/): Bounties for Open Source
 
+### Funding
+
+- [Open Collective](https://opencollective.com/)
+
 ## Surveys
 
 ### By private firms or non-profits
