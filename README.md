@@ -1,4 +1,7 @@
-# Awesome Open Source Software Research Data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Open Source Software Research Data 
+
+![GitHub](https://img.shields.io/github/license/sboysel/awesome-oss-research-data)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a (curated) list of empirical research in the space of Open Source Software.  We
 prioritize studies in which the raw data is made publicly accessible but also
