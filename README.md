@@ -9,21 +9,16 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ## Databases and Archives
 
+### Software development activity
+
 - [GHTorrent](http://ghtorrent-downloads.ewi.tudelft.nl/)
 	- Offline mirror of historical data offered by GitHub's REST API
 	- [GitHub org](https://github.com/ghtorrent): website code, tutorial
 - [GH Archive](https://www.gharchive.org/)
 	- Records GitHub's public timeline of activity
-- [GitHub Advisory Database](https://github.com/advisories)
-	- A database of CVEs and security issues affecting GitHub packages
-	- Timeframe: October 2017 through present 
-	- Drawn from [a variety of sources](https://github.com/github/advisory-database#sources) and recorded using [Open Source Vulnerability Format](https://ossf.github.io/osv-schema/)
-- [Open Source Vulnerability (OSV) Database](https://osv.dev/)
-  - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
-  - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
-- [Libraries.io](https://libraries.io/)
-  - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
-  - [Data releases](https://libraries.io/data)
+
+### Communication
+
 - [The Mail Archive](https://www.mail-archive.com/)
   - Catalogs a number of public mailing lists for collaborative projects
   - [FAQ](https://www.mail-archive.com/faq.html)
@@ -37,7 +32,26 @@ An excellent list of datasets used for empirical software engineering / mining s
   - [(latest) data dump hosted by Internet Archive](https://archive.org/details/stackexchange)
   - [Older vintages](https://meta.stackexchange.com/a/224922/619295) can be tracked down
 
+### Security
+
+- [GitHub Advisory Database](https://github.com/advisories)
+	- A database of CVEs and security issues affecting GitHub packages
+	- Timeframe: October 2017 through present 
+	- Drawn from [a variety of sources](https://github.com/github/advisory-database#sources) and recorded using [Open Source Vulnerability Format](https://ossf.github.io/osv-schema/)
+- [Open Source Vulnerability (OSV) Database](https://osv.dev/)
+  - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
+  - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
+
+### Software dependency networks
+
+- [Libraries.io](https://libraries.io/)
+  - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
+  - [Data releases](https://libraries.io/data)
+
+
 ## Metrics
+
+### Community Health
 
 - [CHAOSS](https://chaoss.community/)
 	- Linux Foundation project to establish OSS community health metrics
@@ -48,6 +62,9 @@ An excellent list of datasets used for empirical software engineering / mining s
   - An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects)
   - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+
+### OSS contribution by private firms
+
 - [Open Source Contributor Index (OSCI)](https://opensourceindex.io/)
   - Tracks GitHub contribution by commercial firms
   - Measures active and total contributors
