@@ -28,6 +28,11 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Raw page data, metadata, and extracted text from the publicly accessible segments of the internet   
   - Timeframe: 2008 - present, monthly since March 2014
   - Data hosted on Amazon S3: [getting started docs](https://commoncrawl.org/the-data/get-started/)
+- [StackExchange](https://stackexchange.com/)
+  - Public Q&A data across the StackExchange 
+  - [SE's Data Explorer](https://data.stackexchange.com/)
+  - [(latest) data dump hosted by Internet Archive](https://archive.org/details/stackexchange)
+  - [Older vintages](https://meta.stackexchange.com/a/224922/619295) can be tracked down
 
 ## Metrics
 
