@@ -45,6 +45,14 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Measures active and total contributors
   - Drawn from [GH Archive](https://www.gharchive.org/) (events from GitHub's public timeline)
 
+## Platforms
+
+### Contribution and Bug Bounty platforms
+
+- [IssueHunt.io](https://issuehunt.io/)
+- [Bountysource](https://bountysource.com/)
+- [boss.dev](https://www.boss.dev/): Bounties for Open Source
+
 ## Surveys
 
 ### By private firms or non-profits
