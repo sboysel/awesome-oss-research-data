@@ -66,6 +66,12 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- survey of OSS library production usage at the application library level
 	- [report](https://www.linuxfoundation.org/research/census-ii-of-free-and-open-source-software-application-libraries) and [data appendix](https://data.world/thelinuxfoundation/census-ii-of-free-and-open-source-software)
 
+### Valuation
+
+- Bayoán Santiago Calderón, Robbins, Guci, Korkmaz, and Kramer. 2022. Measuring the Cost of Open-Source Software Innovation on GitHub. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2022-05-26. https://doi.org/10.3886/E158823V2
+	- [BEA link to report](https://www.bea.gov/research/papers/2022/measuring-cost-open-source-software-innovation-github)
+	- [data](https://www.openicpsr.org/openicpsr/project/158823/version/V2/view)
+
 ### Community Health
 
 - [CHAOSS](https://chaoss.community/)
