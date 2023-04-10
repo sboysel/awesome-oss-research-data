@@ -108,7 +108,15 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 - [Kivach](https://kivach.org/)
 	- "cascading funding": donations to a project redistrbuted upstream
+- [Ko-fi](https://ko-fi.com/)
+- [Liberapay](https://en.liberapay.com/)
 - [Open Collective](https://opencollective.com/)
+	- transparent budgeting
+- [oss.fund](https://www.oss.fund/)
+	- aggregator for OSS funding opportunities, programs, and platforms
+- [StackAid](https://www.stackaid.us/)
+	- donations redistributed evenly across project's dependencies
+	- [simulation of funding allocation](https://simulation.stackaid.us/projects)
 
 ### Wikipedia
 
