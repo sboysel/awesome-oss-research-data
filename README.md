@@ -106,6 +106,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Funding
 
+- [GitHub Sponsors](https://github.com/sponsors)
+	- [List of dependencies for projects owned by the currently authenticated user](https://github.com/sponsors/explore) (i.e. you). CSV export available.
 - [Kivach](https://kivach.org/)
 	- "cascading funding": donations to a project redistrbuted upstream
 - [Ko-fi](https://ko-fi.com/)
