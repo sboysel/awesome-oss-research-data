@@ -106,6 +106,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Funding
 
+- [Kivach](https://kivach.org/)
+	- "cascading funding": donations to a project redistrbuted upstream
 - [Open Collective](https://opencollective.com/)
 
 ### Wikipedia
