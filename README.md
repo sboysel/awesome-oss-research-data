@@ -223,3 +223,4 @@ https://doi.org/10.5281/zenodo.5048542
 - [Linux Foundation Research](https://www.linuxfoundation.org/research)
 - https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis
 - [GitHub Data Dictionary](https://github.com/github/developer-policy/blob/data-dictionary/data_dictionary.md)
+- [Google Search for Research Datasets](https://datasetsearch.research.google.com/)
