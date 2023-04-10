@@ -27,14 +27,17 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Contributor communication
 
-- [The Mail Archive](https://www.mail-archive.com/)
-  - Catalogs a number of public mailing lists for collaborative projects
-  - [FAQ](https://www.mail-archive.com/faq.html)
 - [Common Crawl](https://commoncrawl.org/)
   - Raw page data, metadata, and extracted text from the publicly accessible segments of the internet   
   - Timeframe: 2008 - present, monthly since March 2014
   - Data hosted on Amazon S3: [getting started
     docs](https://commoncrawl.org/the-data/get-started/)
+- [The Mail Archive](https://www.mail-archive.com/)
+  - Catalogs a number of public mailing lists for collaborative projects
+  - [FAQ](https://www.mail-archive.com/faq.html)
+- [Mailing list ARChives](https://marc.info/)
+- [Apache Mail Archives](https://lists.apache.org/)
+- [GNU Mail Archives](https://lists.gnu.org/archive/html/)
 
 ### Security
 
