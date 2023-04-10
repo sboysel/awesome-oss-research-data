@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/sboysel/awesome-oss-research-data)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a (curated) list of relevant datasets and empirical research in the space of Open Source Software development.  We prioritize sources in which (2) the raw data is made publicly accessible or (2) metrics are derived from public sources.  We also include data sources for which only high level insights are available.
+This is a (curated) list of relevant datasets, data sources, and empirical research in the space of Open Source Software development.  We prioritize sources in which (1) the raw data is made publicly accessible or (2) the published metrics are derived from public sources.  We also include data sources for which only high level insights are available.
 
 An excellent list of datasets used for empirical software engineering / mining software repositories exists at [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr). Several relevant data sources from this list are included here.
 
