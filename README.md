@@ -55,6 +55,12 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ## Metrics
 
+### General
+
+- [Census II of Free and Open Source Software](https://data.world/thelinuxfoundation/census-ii-of-free-and-open-source-software)
+	- survey of OSS library production usage at the application library level
+	- [report](https://www.linuxfoundation.org/research/census-ii-of-free-and-open-source-software-application-libraries) and [data appendix](https://data.world/thelinuxfoundation/census-ii-of-free-and-open-source-software)
+
 ### Community Health
 
 - [CHAOSS](https://chaoss.community/)
@@ -137,9 +143,20 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ## Survey Data
 
-- [Linux Foundation: FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020)
-	- access: high level insights public
-	- timeframe: 2020
+- [Linux Foundation surveys](https://data.world/thelinuxfoundation?entryTypeLabel=dataset&tab=resources)
+	- [2020 FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020)
+		- access: high level insights public
+		- timeframe: 2020
+	- [2021 Diversity, Equity, and Inclusion in Open Source](https://data.world/thelinuxfoundation/2021-diversity-equity-and-inclusion-in-open-source)
+		- access: [high level insights](https://www.linuxfoundation.org/research/the-2021-linux-foundation-report-on-diversity-equity-and-inclusion-in-open-source#:~:text=Additional%20Resources-,Presentation%20Data,-Open%20Data) and [survey data](https://data.world/thelinuxfoundation/2021-diversity-equity-and-inclusion-in-open-source)
+		- timeframe: 2021
+	- [2022 State of Open Source Security](https://snyk.io/reports/open-source-security/)
+		- In collaboration with Snyk.io
+		- access: high level insights public
+		- timeframe: 2022
+	- [Annual Jobs Survey]()
+		- access: high level insights and survey data available ([2022](https://data.world/thelinuxfoundation/2022-10th-annual-jobs-survey), [2021](https://data.world/thelinuxfoundation/open-source-jobs-report-2021))
+		- timeframe: 2012-2022
 - [GitHub State of the Octoverse](https://octoverse.github.com/)
 	- access: high level insights public
 	- timeframe: ?-2022 (annual)
@@ -158,9 +175,6 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [SlashData Developer Nation Survey](https://www.developereconomics.net/)
 	- access: not distributed publicly
 	- timeframe: ?
-- [Snyk and the Linux Foundation: State of Open Source Security](https://snyk.io/reports/open-source-security/)
-	- access: high level insights public
-	- timeframe: 2022
 - [O'Reilly: "The Value of Open Source in the Cloud Era"](https://www.oreilly.com/library/view/the-value-of/9781098103286/ch01.html)
 	- access: high level insights public
 	- timeframe:
