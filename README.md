@@ -3,12 +3,15 @@
 ![GitHub](https://img.shields.io/github/license/sboysel/awesome-oss-research-data)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a (curated) list of empirical research in the space of Open Source Software.  We
-prioritize studies in which the raw data is made publicly accessible but also
-include research in which only high level insights are available.
+This is a (curated) list of empirical research in the space of Open Source
+Software.  We prioritize studies in which the raw data is made publicly
+accessible but also include research in which only high level insights are
+available.
 
-An excellent list of datasets used for empirical software engineering / mining software repositories exists at
-[dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr). Several relevant data sources from this list are included here.
+An excellent list of datasets used for empirical software engineering / mining
+software repositories exists at
+[dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr). Several
+relevant data sources from this list are included here.
 
 ## Databases and Archives
 
@@ -20,37 +23,41 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [GH Archive](https://www.gharchive.org/)
 	- Records GitHub's public timeline of activity
 
-### Communication
+### Contributor communication
 
 - [The Mail Archive](https://www.mail-archive.com/)
   - Catalogs a number of public mailing lists for collaborative projects
   - [FAQ](https://www.mail-archive.com/faq.html)
 - [Common Crawl](https://commoncrawl.org/)
-  - Raw page data, metadata, and extracted text from the publicly accessible segments of the internet   
+  - Raw page data, metadata, and extracted text from the publicly accessible
+    segments of the internet   
   - Timeframe: 2008 - present, monthly since March 2014
-  - Data hosted on Amazon S3: [getting started docs](https://commoncrawl.org/the-data/get-started/)
-- [StackExchange](https://stackexchange.com/)
-  - Public Q&A data across the StackExchange 
-  - [SE's Data Explorer](https://data.stackexchange.com/)
-  - [(latest) data dump hosted by Internet Archive](https://archive.org/details/stackexchange)
-  - [Older vintages](https://meta.stackexchange.com/a/224922/619295) can be tracked down
+  - Data hosted on Amazon S3: [getting started
+    docs](https://commoncrawl.org/the-data/get-started/)
 
 ### Security
 
 - [GitHub Advisory Database](https://github.com/advisories)
 	- A database of CVEs and security issues affecting GitHub packages
 	- Timeframe: October 2017 through present 
-	- Drawn from [a variety of sources](https://github.com/github/advisory-database#sources) and recorded using [Open Source Vulnerability Format](https://ossf.github.io/osv-schema/)
+	- Drawn from [a variety of
+	  sources](https://github.com/github/advisory-database#sources) and
+	  recorded using [Open Source Vulnerability
+	  Format](https://ossf.github.io/osv-schema/)
 - [Open Source Vulnerability (OSV) Database](https://osv.dev/)
-  - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
+  - Draws from a variety of
+    [sources](https://github.com/google/osv.dev#current-data-sources) across
+    ecosystems.  Note: encompasses GitHub Advisory Database  
   - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
+- Anas Nadeem, 2021. GitHub Issue Dataset From Top Repositories of Top
+  Languages. https://doi.org/10.5281/zenodo.5048542
 
 ### Software dependency networks
 
 - [Libraries.io](https://libraries.io/)
-  - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
+  - Data on software package depdency relationships over time. Sourced from a
+    number of different ecosystems.
   - [Data releases](https://libraries.io/data)
-
 
 ## Metrics
 
@@ -59,27 +66,66 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [CHAOSS](https://chaoss.community/)
 	- Linux Foundation project to establish OSS community health metrics
   - [Metric definitions](https://chaoss.community/kbtopic/all-metrics/)
-- [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
-  - [Listing of projects](https://bestpractices.coreinfrastructure.org/en/projects), [high-level project statistics](https://bestpractices.coreinfrastructure.org/en/project_stats), [high-level criteria statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats)
+- [OpenSSF Best Practices Badge
+  Program](https://bestpractices.coreinfrastructure.org/en)
+  - [Listing of
+    projects](https://bestpractices.coreinfrastructure.org/en/projects),
+    [high-level project
+    statistics](https://bestpractices.coreinfrastructure.org/en/project_stats),
+    [high-level criteria
+    statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats)
 - OpenSSF Criticality Scores
-  - An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects)
-  - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
-  - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+  - An effort by [OpenSSF Securing Critical Projects
+    WG](https://github.com/ossf/wg-securing-critical-projects)
+  - Algorithm: ["Quantifying Criticality" by Rob
+    Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
+  - Data repository:
+    [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+- Goggins, S., Lumbard, K. and Germonprez, M., 2021, May. Open source community
+  health: Analytical metrics and their corresponding narratives. In _2021
+  IEEE/ACM 4th International Workshop on Software Health in Projects,
+  Ecosystems and Communities (SoHeal)_ (pp. 25-33). IEEE.
 
 ### Contributor Experience
 
-- Perez, Quentin, Urtado, Christelle, Vauttier, Sylvain, 2022. Dataset of Open-Source Software Developers Labeled by their Experience Level in the Project and their Associated Software Metrics. https://doi.org/10.5281/zenodo.6966195
+- Denivan Campos, Luana Martins, & Ivan Machado. (2022). An empirical study on
+  the influence of developers' experience on software test code quality [Data
+  set]. Zenodo. https://doi.org/10.5281/zenodo.7110141
+- Perez, Quentin, Urtado, Christelle, Vauttier, Sylvain, 2022. Dataset of
+  Open-Source Software Developers Labeled by their Experience Level in the
+  Project and their Associated Software Metrics.
+  https://doi.org/10.5281/zenodo.6966195
+
+### Project Characteristics
+
+- Munaiah, N., Kroh, S., Cabrey, C. and Nagappan, M., 2017. Curating github for
+  engineered software projects. _Empirical Software Engineering_, _22_(6),
+  pp.3219-3253. [project website](https://reporeapers.github.io/results/1.html)
+- Dabic, Ozren, Aghajani, Emad, Bavota, Gabriele, 2021. GHS (GitHub Search):
+  Sampling Projects in GitHub for MSR Studies.
+  https://doi.org/10.5281/zenodo.4588464
 
 ## OSS contribution by private firms
 
 - [Open Source Contributor Index (OSCI)](https://opensourceindex.io/)
   - Tracks GitHub contribution by commercial firms
   - Measures active and total contributors
-  - Drawn from [GH Archive](https://www.gharchive.org/) (events from GitHub's public timeline)
+  - Drawn from [GH Archive](https://www.gharchive.org/) (events from GitHub's
+    public timeline)
+- Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou,
+  Georgios, & Louridas, Panos. (2020). Enterprise-Driven Open Source Software
+  (1.1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3742962
+- Angermeir, F., Voggenreiter, M., Moyón, F. and Mendez, D., 2021, May.
+  Enterprise-driven open source software: a case study on security automation.
+  In _2021 IEEE/ACM 43rd International Conference on Software Engineering:
+  Software Engineering in Practice (ICSE-SEIP)_ (pp. 278-287). IEEE.
 
-### Academic Publications
+## Contribution patterns
 
-Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios, & Louridas, Panos. (2020). Enterprise-Driven Open Source Software (1.1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3742962
+- Marco Ortu, Giuseppe Destefanis, Daniel Graziotin, Michele Marchesi, Marco
+  Tonelli, 2020. Dataset - How do you propose your code changes? Empirical
+  Analysis of Affect Metrics of Pull Requests on GitHub.
+  https://doi.org/10.5281/zenodo.3825044
 
 ## Platforms
 
@@ -93,9 +139,24 @@ Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios,
 
 - [Open Collective](https://opencollective.com/)
 
-## Surveys
+### Wikipedia
 
-### By private firms or non-profits
+- Wikipedia (open crowd sourcing platform)
+ 	- data dumps: https://dumps.wikimedia.org/enwiki/
+ 	- SQL access: https://quarry.wmcloud.org/ 
+- Ekaterina Levitskaya, Gizem Korkmaz, Daniel Mietchen, Lane Rasberry, 2022.
+  Analysis of Linked GitHub and Wikidata.
+  https://doi.org/10.5281/zenodo.7443339
+
+### Q&A Platforms
+
+- [StackExchange](https://stackexchange.com/)
+  - Public Q&A data across the StackExchange 
+  - [SE's Data Explorer](https://data.stackexchange.com/)
+  - [(latest) data dump hosted by Internet Archive](https://archive.org/details/stackexchange)
+  - [Older vintages](https://meta.stackexchange.com/a/224922/619295) can be tracked down
+
+## Survey Data
 
 - [Linux Foundation: FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020)
 	- access: high level insights public
@@ -141,80 +202,15 @@ Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios,
   survey](https://www.openlogic.com/resources/2022-open-source-report)
 	- access: high level insights public
 	- timeframe: 2022
-- Wikipedia (open crowd sourcing platform)
- 	- data dumps: https://dumps.wikimedia.org/enwiki/
- 	- SQL access: https://quarry.wmcloud.org/ 
-
-### Academic Publications
-
-Hertel, G., Niedner, S. and Herrmann, S., 2003. Motivation of software
-developers in Open Source projects: an Internet-based survey of contributors to
-the Linux kernel. _Research policy_, _32_(7), pp.1159-1177.
-
-Lakhani, K.R. and Wolf, R.G., 2003. Why hackers do what they do: Understanding
-motivation and effort in free/open source software projects. _Open Source
-Software Projects (September 2003).
-
-Marco Ortu, Giuseppe Destefanis, Daniel Graziotin, Michele Marchesi, Marco
-Tonelli, 2020. Dataset - How do you propose your code changes? Empirical
-Analysis of Affect Metrics of Pull Requests on GitHub.
-https://doi.org/10.5281/zenodo.3825044
-
-Feitelson, Dror. (2021). Survey on Developer and Researcher Views on the Ethics
-of Experiments on Open-Source Projects [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.5752053
-
-Dabic, Ozren, Aghajani, Emad, Bavota, Gabriele, 2021. GHS (GitHub Search):
-Sampling Projects in GitHub for MSR Studies.
-https://doi.org/10.5281/zenodo.4588464
-
-Geiger, R.S., Howard, D. and Irani, L., 2021. The labor of maintaining and
-scaling free and open-source software projects. _Proceedings of the ACM on
-Human-Computer Interaction_, _5_(CSCW1), pp.1-28.
-
-Denivan Campos, Luana Martins, & Ivan Machado. (2022). An empirical study on the
-influence of developers' experience on software test code quality [Data set].
-Zenodo. https://doi.org/10.5281/zenodo.7110141
-
-Ekaterina Levitskaya, Gizem Korkmaz, Daniel Mietchen, Lane Rasberry, 2022.
-Analysis of Linked GitHub and Wikidata. https://doi.org/10.5281/zenodo.7443339
-
-Perez, Quentin, Urtado, Christelle, & Vauttier, Sylvain. (2022). Dataset of
-Open-Source Software Developers Labeled by their Experience Level and Associated
-with their Software Metrics [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.7011334
-
-Ekaterina Levitskaya, Gizem Korkmaz, Daniel Mietchen, & Lane Rasberry. (2022).
-Analysis of Linked GitHub and Wikidata. https://doi.org/10.5281/zenodo.7443339
-
-## Mining Software repositories
-
-- [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr)
-	- A curated list of datasets relevant to empirical software engineering
-
-### Academic Publications
-
-Munaiah, N., Kroh, S., Cabrey, C. and Nagappan, M., 2017. Curating github for
-engineered software projects. _Empirical Software Engineering_, _22_(6),
-pp.3219-3253. [project website](https://reporeapers.github.io/results/1.html)
-
-Spinellis, D., Kotti, Z., Kravvaritis, K., Theodorou, G. and Louridas, P., 2020,
-June. A dataset of enterprise-driven open source software. In _Proceedings of
-the 17th International Conference on Mining Software Repositories_ (pp.
-533-537).
-
-Angermeir, F., Voggenreiter, M., Moyón, F. and Mendez, D., 2021, May.
-Enterprise-driven open source software: a case study on security automation. In
-_2021 IEEE/ACM 43rd International Conference on Software Engineering: Software
-Engineering in Practice (ICSE-SEIP)_ (pp. 278-287). IEEE.
-
-Goggins, S., Lumbard, K. and Germonprez, M., 2021, May. Open source community
-health: Analytical metrics and their corresponding narratives. In _2021 IEEE/ACM
-4th International Workshop on Software Health in Projects, Ecosystems and
-Communities (SoHeal)_ (pp. 25-33). IEEE.
-
-Anas Nadeem, 2021. GitHub Issue Dataset From Top Repositories of Top Languages.
-https://doi.org/10.5281/zenodo.5048542
+- Hertel, G., Niedner, S. and Herrmann, S., 2003. Motivation of software
+  developers in Open Source projects: an Internet-based survey of contributors
+  to the Linux kernel. _Research policy_, _32_(7), pp.1159-1177.
+- Lakhani, K.R. and Wolf, R.G., 2003. Why hackers do what they do:
+  Understanding motivation and effort in free/open source software projects.
+  _Open Source Software Projects (September 2003).
+- Feitelson, Dror. (2021). Survey on Developer and Researcher Views on the
+  Ethics of Experiments on Open-Source Projects [Data set]. Zenodo.
+  https://doi.org/10.5281/zenodo.5752053
 
 ## Other Resources
 
@@ -222,5 +218,7 @@ https://doi.org/10.5281/zenodo.5048542
   Digitization](https://www.nber.org/programs-projects/projects-and-centers/economics-digitization/economics-digitization-research-projects)
 - [Linux Foundation Research](https://www.linuxfoundation.org/research)
 - https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis
-- [GitHub Data Dictionary](https://github.com/github/developer-policy/blob/data-dictionary/data_dictionary.md)
-- [Google Search for Research Datasets](https://datasetsearch.research.google.com/)
+- [GitHub Data
+  Dictionary](https://github.com/github/developer-policy/blob/data-dictionary/data_dictionary.md)
+- [Google Search for Research
+  Datasets](https://datasetsearch.research.google.com/)
