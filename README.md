@@ -66,12 +66,16 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
 
-### OSS contribution by private firms
+## OSS contribution by private firms
 
 - [Open Source Contributor Index (OSCI)](https://opensourceindex.io/)
   - Tracks GitHub contribution by commercial firms
   - Measures active and total contributors
   - Drawn from [GH Archive](https://www.gharchive.org/) (events from GitHub's public timeline)
+
+### Academic Publications
+
+Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios, & Louridas, Panos. (2020). Enterprise-Driven Open Source Software (1.1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3742962
 
 ## Platforms
 
