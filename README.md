@@ -55,6 +55,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Libraries.io](https://libraries.io/)
   - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
   - [Data releases](https://libraries.io/data)
+- [Repology](https://repology.org/)
+  - montors software package vintages (i.e. versioning) across a number of ecosystems
 
 ## Metrics
 
