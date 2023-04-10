@@ -66,6 +66,10 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
 
+### Contributor Experience
+
+- Perez, Quentin, Urtado, Christelle, Vauttier, Sylvain, 2022. Dataset of Open-Source Software Developers Labeled by their Experience Level in the Project and their Associated Software Metrics. https://doi.org/10.5281/zenodo.6966195
+
 ## OSS contribution by private firms
 
 - [Open Source Contributor Index (OSCI)](https://opensourceindex.io/)
