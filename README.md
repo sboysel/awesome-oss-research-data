@@ -92,6 +92,7 @@ An excellent list of datasets used for empirical software engineering / mining s
     public timeline)
 - Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios, & Louridas, Panos. (2020). Enterprise-Driven Open Source Software (1.1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3742962
 - Angermeir, F., Voggenreiter, M., Moyón, F. and Mendez, D., 2021, May. Enterprise-driven open source software: a case study on security automation. In _2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)_ (pp. 278-287). IEEE.
+- Shimels Garomssa, Rathimala Kannan, Ian Chai, Dirk Riehle, 2022. How Software Quality Mediates the Impact of Intellectual Capital on Commercial Open Source Software Company Success. Available at: https://dx.doi.org/10.21227/3rwb-vg72.
 
 ## Platforms
 
@@ -162,6 +163,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- timeframe: 2022
 - Hertel, G., Niedner, S. and Herrmann, S., 2003. Motivation of software developers in Open Source projects: an Internet-based survey of contributors to the Linux kernel. _Research policy_, _32_(7), pp.1159-1177.
 - Lakhani, K.R. and Wolf, R.G., 2003. Why hackers do what they do: Understanding motivation and effort in free/open source software projects. _Open Source Software Projects (September 2003).
+- Georgia M. Kapitsaki, Maria Papoutsoglou, Daniel German, Lefteris Angelis, 2020. Dataset from "What do developers talk about open source software licensing? " - SEAA2020. https://doi.org/10.5281/zenodo.3871565
 - Feitelson, Dror. (2021). Survey on Developer and Researcher Views on the Ethics of Experiments on Open-Source Projects [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5752053
 
 ## Other Resources
