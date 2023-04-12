@@ -84,6 +84,9 @@ An excellent list of datasets used for empirical software engineering / mining s
   - An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects)
   - Algorithm: ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   - Data repository: [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)
+- [isitmaintained.com](https://isitmaintained.com/)
+  - quick status checks for public GitHub repositories (e.g. median issue resolution time, percentage of open issues)
+  - [source code repository for backend service](https://github.com/mnapoli/IsItMaintained)
 - Goggins, S., Lumbard, K. and Germonprez, M., 2021, May. Open source community health: Analytical metrics and their corresponding narratives. In _2021 IEEE/ACM 4th International Workshop on Software Health in Projects,Ecosystems and Communities (SoHeal)_ (pp. 25-33). IEEE.
 
 ### Contributor Experience
