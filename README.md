@@ -52,6 +52,9 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Software dependency networks
 
+- [deps.dev](https://deps.dev/) - Open Source Insights
+  - A Google project to develop a software dependency graph across ecosystems. Versioning and vulnerabilty information included.
+  - [general docs](https://docs.deps.dev/), [API docs](https://docs.deps.dev/api/v3alpha/), [docs for BigQuery access](https://docs.deps.dev/bigquery/v1/)
 - [Libraries.io](https://libraries.io/)
   - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
   - [Data releases](https://libraries.io/data)
