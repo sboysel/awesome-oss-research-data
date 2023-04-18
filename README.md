@@ -41,6 +41,10 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Security
 
+- [NIST National Vulnerability Database](https://nvd.nist.gov/)
+    - A Common Vulnerabilities and Exploits (CVE) database
+    - CVE and severity metrics (CVSS)
+    - Timeframe: October 1988 - present
 - [GitHub Advisory Database](https://github.com/advisories)
 	- A database of CVEs and security issues affecting GitHub packages
 	- Timeframe: October 2017 through present 
