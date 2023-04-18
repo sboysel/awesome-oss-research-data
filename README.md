@@ -41,6 +41,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### Security
 
+#### Software Faults
+
 - [NIST National Vulnerability Database](https://nvd.nist.gov/)
     - A Common Vulnerabilities and Exploits (CVE) database
     - CVE and severity metrics (CVSS)
@@ -54,6 +56,12 @@ An excellent list of datasets used for empirical software engineering / mining s
   - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
 - Bhandari, Guru, Naseer, Amara, Moonen, Leon, 2021. CVEfixes Dataset: Automatically Collected Vulnerabilities and Their Fixes from Open-Source Software. https://doi.org/10.5281/zenodo.4476564
 - Anas Nadeem, 2021. GitHub Issue Dataset From Top Repositories of Top Languages. https://doi.org/10.5281/zenodo.5048542
+
+#### Other
+
+- [NIST National Software Reference Library](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl)
+    - NSRL Reference Data Set: a collection of hashes and metadata for to uniquely identify individual files across a set of software projects
+    - Foresnic use cases include identifying software based solely on file contents, malicious elements
 
 ### Software dependency networks
 
