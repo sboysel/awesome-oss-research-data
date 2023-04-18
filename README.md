@@ -104,6 +104,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ## Contribution patterns
 
+- Choudhary, Samridhi; Bogart, Christopher; Rose, Carolyn; Herbsleb, James (2020): Modeling Productivity in Open Source GitHub Projects: A Dataset and Codebase. Carnegie Mellon University. Dataset. https://doi.org/10.1184/R1/6397013.v1
 - Marco Ortu, Giuseppe Destefanis, Daniel Graziotin, Michele Marchesi, Marco Tonelli, 2020. Dataset - How do you propose your code changes? Empirical Analysis of Affect Metrics of Pull Requests on GitHub. https://doi.org/10.5281/zenodo.3825044
 - Champion, K. and Hill, B.M., 2021. Underproduction: An approach for measuring risk in open source software. In _2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)_ (pp. 388-399). IEEE.
   - [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PUCD2P)
