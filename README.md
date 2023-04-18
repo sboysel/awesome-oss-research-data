@@ -48,6 +48,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Open Source Vulnerability (OSV) Database](https://osv.dev/)
   - Draws from a variety of [sources](https://github.com/google/osv.dev#current-data-sources) across ecosystems.  Note: encompasses GitHub Advisory Database  
   - GCS bucket: https://osv-vulnerabilities.storage.googleapis.com/
+- Bhandari, Guru, Naseer, Amara, Moonen, Leon, 2021. CVEfixes Dataset: Automatically Collected Vulnerabilities and Their Fixes from Open-Source Software. https://doi.org/10.5281/zenodo.4476564
 - Anas Nadeem, 2021. GitHub Issue Dataset From Top Repositories of Top Languages. https://doi.org/10.5281/zenodo.5048542
 
 ### Software dependency networks
