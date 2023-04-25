@@ -75,6 +75,20 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Repology](https://repology.org/)
   - montors software package vintages (i.e. versioning) across a number of ecosystems
 
+### Package downloads
+
+- [PyPI](https://packaging.python.org/en/latest/guides/analyzing-pypi-package-downloads/) - Python package index download statistics
+  - [BigQuery dataset](https://console.cloud.google.com/marketplace/product/gcp-public-data-pypi/pypi?q=search&referrer=search&project=ghtorrent-293822) or [simpler interface](https://pypistats.org/)
+- [CRAN logs](http://cran-logs.rstudio.com/) - R download statistics
+- [RubyGems](https://ui.honeycomb.io/ruby-together/datasets/rubygems.org/result/7WeAgPYyjTH) - Ruby package traffic statistics
+  - Tons of information created by [Honeycomb](https://docs.honeycomb.io/quickstart/)
+- [Julia](https://discourse.julialang.org/t/announcing-package-download-stats/69073) - Julia download statistics since October 2021
+- [npm](https://www.npmjs.com/package/npm-stats-api) - Node.js download statistics API
+- [NuGet](https://nugettrends.com/) - Historical .NET/C# download numbers
+  - [GitHub project](https://github.com/dotnet/nuget-trends)
+- [PECL](https://pecl.php.net/package-stats.php) and [Pear](https://pear.php.net/package-stats.php?cid=3&pid=40&rid) - PhP download statistics
+- [crates.io](https://crates.io/data-access) - Rust download statistics
+
 ## Metrics
 
 ### General
