@@ -24,6 +24,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- [GitHub org](https://github.com/ghtorrent): website code, tutorial
 - [GH Archive](https://www.gharchive.org/)
 	- Records GitHub's public timeline of activity
+- GitHub [REST API](https://docs.github.com/en/rest) and [GraphQL API](https://docs.github.com/en/graphql)
 
 ### Contributor communication
 
