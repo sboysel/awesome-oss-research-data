@@ -33,6 +33,9 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Timeframe: 2008 - present, monthly since March 2014
   - Data hosted on Amazon S3: [getting started
     docs](https://commoncrawl.org/the-data/get-started/)
+- [Internet Archive](https://archive.org/)
+  - Less systematic crawls with a longer history
+  - Access via the [Wayback Machine](https://web.archive.org/) or its [API](https://archive.org/help/wayback_api.php)
 - [The Mail Archive](https://www.mail-archive.com/)
   - Catalogs a number of public mailing lists for collaborative projects
   - [FAQ](https://www.mail-archive.com/faq.html)
