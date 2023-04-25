@@ -62,6 +62,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [NIST National Software Reference Library](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl)
     - NSRL Reference Data Set: a collection of hashes and metadata for to uniquely identify individual files across a set of software projects
     - Foresnic use cases include identifying software based solely on file contents, malicious elements
+- Bigquery Introduction for GitHub data https://github.com/dinalav/Data-Science-Slides-and-Notebooks
 
 ### Software dependency networks
 
@@ -123,6 +124,8 @@ An excellent list of datasets used for empirical software engineering / mining s
   - [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PUCD2P)
 - Wachs, J., Nitecki, M., Schueller, W. and Polleres, A., 2022. The geography of open source software: Evidence from github. Technological Forecasting and Social Change, 176, p.121478.
   - [data collection scripts](https://github.com/n1tecki/Geography-of-Open-Source-Software) and [output data](https://github.com/johanneswachs/OSS_Geography_Data)
+- Wachs, J., Nitecki, M., Schueller, W., & Polleres, A. (2022). The geography of open source software: Evidence from github. Technological Forecasting and Social Change, 176, 121478. https://github.com/johanneswachs/OSS_Geography_Data 
+
 
 ### OSS contribution by private firms
 
