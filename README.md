@@ -97,6 +97,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 
 ### General
 
+- [GitHub Innovation Graph](https://innovationgraph.github.com/)
+    - high level insights on worldwide GitHub activity over time [[blog post](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/)] [[repo](https://github.com/github/innovationgraph)] 
 - [Census II of Free and Open Source Software](https://data.world/thelinuxfoundation/census-ii-of-free-and-open-source-software)
 	- survey of OSS library production usage at the application library level
 	- [report](https://www.linuxfoundation.org/research/census-ii-of-free-and-open-source-software-application-libraries) and [data appendix](https://data.world/thelinuxfoundation/census-ii-of-free-and-open-source-software)
