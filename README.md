@@ -12,8 +12,9 @@ An excellent list of datasets used for empirical software engineering / mining s
 1. [Databases and archives](#databases-and-archives)
 2. [Metrics](#metrics)
 3. [Contribution patterns](#contribution-patterns)
-4. [Platforms](#platforms)
-5. [Survey data](#survey-data) 
+4. [Public policy](#public-policy)
+5. [Platforms](#platforms)
+6. [Survey data](#survey-data) 
 
 ## Databases and archives
 
@@ -160,6 +161,11 @@ An excellent list of datasets used for empirical software engineering / mining s
 - Spinellis, Diomidis, Kotti, Zoe, Kravvaritis, Konstantinos, Theodorou, Georgios, & Louridas, Panos. (2020). Enterprise-Driven Open Source Software (1.1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3742962
 - Angermeir, F., Voggenreiter, M., Moyón, F. and Mendez, D., 2021, May. Enterprise-driven open source software: a case study on security automation. In _2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)_ (pp. 278-287). IEEE.
 - Shimels Garomssa, Rathimala Kannan, Ian Chai, Dirk Riehle, 2022. How Software Quality Mediates the Impact of Intellectual Capital on Commercial Open Source Software Company Success. Available at: https://dx.doi.org/10.21227/3rwb-vg72.
+
+## Public Policy
+
+- [CSIS Government Open Source Software Policies](https://www.csis.org/programs/strategic-technologies-program/resources/government-open-source-software-policies)
+	- Dataset of various public policy and legislation dealing with open source software from governments around the world.
 
 ## Platforms
 
