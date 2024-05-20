@@ -26,7 +26,9 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- Records GitHub's public timeline of activity
 - GitHub [REST API](https://docs.github.com/en/rest) and [GraphQL API](https://docs.github.com/en/graphql)
 - [Ecosyste.ms](https://ecosyste.ms/)
-    - Tools and open datasets to support, sustain, and secure critical digital infrastructure
+  - Tools and open datasets to support, sustain, and secure critical digital infrastructure
+- [Software Heritage](https://archive.softwareheritage.org/)
+	- Historical archive of source code
 
 ### Contributor communication
 
