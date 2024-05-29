@@ -191,6 +191,7 @@ An excellent list of datasets used for empirical software engineering / mining s
 	- donations redistributed evenly across project's dependencies
 	- [simulation of funding allocation](https://simulation.stackaid.us/projects)
 - [Secure Open Source Rewards (sos.dev)](https://sos.dev/)
+- [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding) - guide to OSS funding options
 
 ### Wikipedia
 
