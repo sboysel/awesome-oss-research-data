@@ -30,6 +30,8 @@ An excellent list of datasets used for empirical software engineering / mining s
   - Tools and open datasets to support, sustain, and secure critical digital infrastructure
 - [Software Heritage](https://archive.softwareheritage.org/)
 	- Historical archive of source code
+- [OSSRank](https://ossrank.com/)
+	- Ranking that provides useful mappings between top projects, project types, and contributors (individuals and private companies)
 
 ### Contributor communication
 
