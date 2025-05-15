@@ -83,6 +83,8 @@ An excellent list of datasets used for empirical software engineering / mining s
 - [Libraries.io](https://libraries.io/)
   - Data on software package depdency relationships over time. Sourced from a number of different ecosystems.
   - [Data releases](https://libraries.io/data)
+- [Data for Software Ecosystem Analysis (DaSEA)](https://dasea-project.github.io/DASEA/)
+	- A continuously updated dataset of software dependencies covering various package manager ecosystems.
 - [Repology](https://repology.org/)
   - montors software package vintages (i.e. versioning) across a number of ecosystems
 
