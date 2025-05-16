@@ -122,7 +122,12 @@ Project characteristics
 | [CHAOSS](https://chaoss.community/) | Linux Foundation project to establish OSS community health metrics. [Metric definitions](https://chaoss.community/kbtopic/all-metrics/) |
 | [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en) | [Listing of projects](https://bestpractices.coreinfrastructure.org/en/projects), [high-level project statistics](https://bestpractices.coreinfrastructure.org/en/project_stats), [high-level criteria statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats) |
 | OpenSSF Criticality Scores | An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects). [Algorithm: "Quantifying Criticality"](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf) by Rob Pike and [data respository](https://github.com/ossf/criticality_score) |
+
+**Tools**
+| Source | Description |
+|:-------|:------------|
 | [isitmaintained.com](https://isitmaintained.com/) | Quick status checks for public GitHub repositories (e.g. median issue resolution time, percentage of open issues). |
+| [GitWhois](https://gitwhois.com/) | High-level glance into GitHub repositories |
 
 **Research**
 
