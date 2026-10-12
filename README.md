@@ -122,6 +122,7 @@ Project characteristics
 | [CHAOSS](https://chaoss.community/) | Linux Foundation project to establish OSS community health metrics. [Metric definitions](https://chaoss.community/kbtopic/all-metrics/) |
 | [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en) | [Listing of projects](https://bestpractices.coreinfrastructure.org/en/projects), [high-level project statistics](https://bestpractices.coreinfrastructure.org/en/project_stats), [high-level criteria statistics](https://bestpractices.coreinfrastructure.org/en/criteria_stats) |
 | OpenSSF Criticality Scores | An effort by [OpenSSF Securing Critical Projects WG](https://github.com/ossf/wg-securing-critical-projects). [Algorithm: "Quantifying Criticality"](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf) by Rob Pike and [data respository](https://github.com/ossf/criticality_score) |
+| [Orviqa README Benchmark](https://orviqa.dev/research/readme-benchmark) | README composition across 2,069 public repositories, stratified by star band and language. Detector accuracy measured against 360 hand-scored READMEs, with per-feature precision/recall and error-corrected prevalence published. Figures and labels CC BY 4.0, available as [JSON](https://orviqa.dev/api/research/readme-benchmark) and deposited on Zenodo ([10.5281/zenodo.23288268](https://doi.org/10.5281/zenodo.23288268)) |
 
 **Tools**
 | Source | Description |
