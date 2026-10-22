@@ -128,6 +128,7 @@ Project characteristics
 |:-------|:------------|
 | [isitmaintained.com](https://isitmaintained.com/) | Quick status checks for public GitHub repositories (e.g. median issue resolution time, percentage of open issues). |
 | [GitWhois](https://gitwhois.com/) | High-level glance into GitHub repositories |
+| [Related Repos](https://relatedrepos.com/) | Discover related open source projects. Find alternatives and other similar repositories. Updated daily. |
 
 **Research**
 
